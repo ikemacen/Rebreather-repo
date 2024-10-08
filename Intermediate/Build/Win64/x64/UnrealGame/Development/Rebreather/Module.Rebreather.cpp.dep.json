@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\p1_projects\\re-breather\\rebreather\\rebreather-repo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\rebreather\\module.rebreather.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p1_projects\\re-breather\\rebreather\\rebreather-repo\\intermediate\\build\\win64\\x64\\rebreather\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\p1_projects\\re-breather\\rebreather\\rebreather-repo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\rebreather\\definitions.rebreather.h",
+            "d:\\p1_projects\\re-breather\\rebreather\\rebreather-repo\\intermediate\\source\\rebreather.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
