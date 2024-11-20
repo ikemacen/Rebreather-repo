@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/P1_projects/Re-breather/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/UnderwaterLevelDesign/9/LG/0NO1UXRKYASX800VAAYTXP.uasset",
+				"D:/P1_projects/Re-breather/Rebreather-repo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/P1_projects/Re-breather/Rebreather-repo/Content/UI/widgets/InfoWidget.uasset",
+				"D:/P1_projects/Re-breather/Rebreather-repo/Content/UI/OxygenBar.uasset",
+				"D:/P1_projects/Re-breather/Rebreather-repo/Content/Assests/Animation/Swimmer_ABP.uasset",
 				"C:/Users/jchen/Documents/GitHub/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/jchen/Documents/GitHub/Rebreather-repo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/jchen/Documents/GitHub/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/E9/98YSQNY5FAWM5BE4VWS0NA.uasset",
