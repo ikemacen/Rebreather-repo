@@ -29,6 +29,10 @@
 		{
 			"Name": "Adjust",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
 		}
 	]
 }
