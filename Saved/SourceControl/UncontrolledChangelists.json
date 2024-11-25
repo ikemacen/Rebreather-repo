@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine/UE_5.4/Engine/Plugins/Experimental/ImagePlate/Content/ImagePlate.uasset",
+				"D:/GitHub/Rebreather/Content/Assests/Animation/DiveAnimation.uasset",
+				"D:/GitHub/Rebreather/Content/Assests/Animation/ResurfaceANIM.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Assests/Meshes/Kelp/Kelp_Kelp.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Assests/Meshes/Kelp/Kelp_Kelp_001.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Assests/Meshes/Kelp/Kelp_Kelp_002.uasset",
@@ -489,7 +492,6 @@
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/Shot1.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/CutSceneIMGSource.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/CutSceneMP.uasset",
-				"D:/Unreal Engine/UE_5.4/Engine/Plugins/Experimental/ImagePlate/Content/ImagePlate.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/NewMediaPlayer_Video.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/TestMat.uasset",
 				"D:/GitHub/Rebreather_Github_Test/Rebreather-repo/Content/Movies/TestMat_Inst.uasset",
