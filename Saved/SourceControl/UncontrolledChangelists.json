@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Yang Lu/Desktop/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P0/YLWGOO2K7GK5K7N5ZW3YJY.uasset",
+				"C:/Users/Yang Lu/Desktop/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H0/ESDBD2VHB4QPE8DW8XOQKB.uasset",
+				"C:/Users/Yang Lu/Desktop/Rebreather-repo/Content/GameObjects/SharkBP.uasset",
 				"D:/Unreal Engine/UE_5.4/Engine/Plugins/Experimental/ImagePlate/Content/ImagePlate.uasset",
 				"D:/GitHub/Rebreather/Content/Assests/Animation/DiveAnimation.uasset",
 				"D:/GitHub/Rebreather/Content/Assests/Animation/ResurfaceANIM.uasset",
