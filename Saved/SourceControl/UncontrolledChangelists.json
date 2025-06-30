@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tonit/OneDrive/Documents/GitHub/Rebreather-repo/Content/UI/widgets/MainVolumeWidget.uasset",
+				"C:/Users/tonit/OneDrive/Documents/GitHub/Rebreather-repo/Content/UI/widgets/MainMenu.uasset",
+				"C:/Users/tonit/OneDrive/Documents/GitHub/Rebreather-repo/Content/UI/widgets/PauseVolumeWidget.uasset",
 				"D:/P1_projects/Re-breather/Rebreather-repo/Content/__ExternalActors__/ThirdPerson/Maps/UnderwaterLevelDesign/9/LG/0NO1UXRKYASX800VAAYTXP.uasset",
 				"D:/P1_projects/Re-breather/Rebreather-repo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/P1_projects/Re-breather/Rebreather-repo/Content/UI/widgets/InfoWidget.uasset",
